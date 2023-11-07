@@ -1,0 +1,1649 @@
+"../../../Engine/Content/EditorResources/S_Actor.ubulk" 0
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 1
+"../../../Engine/Content/EditorResources/S_Actor.uexp" 2
+"../../../Engine/Content/EditorResources/S_BoxReflectionCapture.uasset" 3
+"../../../Engine/Content/EditorResources/S_BoxReflectionCapture.uexp" 4
+"../../../Engine/Content/EngineResources/DefaultTexture.ubulk" 5
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 6
+"../../../Engine/Content/EngineResources/DefaultTexture.uexp" 7
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 8
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uexp" 9
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 10
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uexp" 11
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 12
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uexp" 13
+"../../../Engine/Content/EditorResources/S_Trigger.ubulk" 14
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 15
+"../../../Engine/Content/EditorResources/S_Trigger.uexp" 16
+"../../../Engine/Content/EditorResources/S_TriggerBox.uasset" 17
+"../../../Engine/Content/EditorResources/S_TriggerBox.uexp" 18
+"../../../Engine/Content/EditorResources/S_TriggerCapsule.uasset" 19
+"../../../Engine/Content/EditorResources/S_TriggerCapsule.uexp" 20
+"../../../Engine/Content/EditorResources/S_TriggerSphere.uasset" 21
+"../../../Engine/Content/EditorResources/S_TriggerSphere.uexp" 22
+"../../../Engine/Content/EngineMeshes/Sphere.ubulk" 23
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 24
+"../../../Engine/Content/EngineMeshes/Sphere.uexp" 25
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 26
+"../../../Engine/Content/EngineResources/GradientTexture0.uexp" 27
+"../../../Engine/Content/EngineResources/Black.uasset" 28
+"../../../Engine/Content/EngineResources/Black.uexp" 29
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.ubulk" 30
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 31
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uexp" 32
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 33
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uexp" 34
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 35
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uexp" 36
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.ubulk" 37
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 38
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uexp" 39
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.ubulk" 40
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 41
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uexp" 42
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.ubulk" 43
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 44
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uexp" 45
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 46
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uexp" 47
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 48
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uexp" 49
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.ubulk" 50
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 51
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uexp" 52
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 53
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uexp" 54
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 55
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uexp" 56
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.ubulk" 57
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 58
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uexp" 59
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.ubulk" 60
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 61
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uexp" 62
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.ubulk" 63
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 64
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uexp" 65
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.ubulk" 66
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 67
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uexp" 68
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.ubulk" 69
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 70
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uexp" 71
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.ubulk" 72
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 73
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uexp" 74
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.ubulk" 75
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 76
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uexp" 77
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.ubulk" 78
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 79
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uexp" 80
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 81
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uexp" 82
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 83
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uexp" 84
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.ubulk" 85
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 86
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uexp" 87
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.ubulk" 88
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 89
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uexp" 90
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.ubulk" 91
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 92
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uexp" 93
+"../../../Engine/Content/EditorLandscapeResources/SplineEditorMeshMat.uasset" 94
+"../../../Engine/Content/EditorLandscapeResources/SplineEditorMeshMat.uexp" 95
+"../../../Engine/Content/EditorLandscapeResources/SplineEditorMesh.ubulk" 96
+"../../../Engine/Content/EditorLandscapeResources/SplineEditorMesh.uasset" 97
+"../../../Engine/Content/EditorLandscapeResources/SplineEditorMesh.uexp" 98
+"../../../Engine/Content/EditorResources/S_Solver.ubulk" 99
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 100
+"../../../Engine/Content/EditorResources/S_Solver.uexp" 101
+"../../../Engine/Plugins/Media/MediaPlate/Content/SM_MediaPlateScreen.ubulk" 102
+"../../../Engine/Plugins/Media/MediaPlate/Content/SM_MediaPlateScreen.uasset" 103
+"../../../Engine/Plugins/Media/MediaPlate/Content/SM_MediaPlateScreen.uexp" 104
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 105
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uexp" 106
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 107
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uexp" 108
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 109
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uexp" 110
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 111
+"../../../Engine/Content/EngineMaterials/MiniFont.uexp" 112
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 113
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uexp" 114
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.ubulk" 115
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 116
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uexp" 117
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/background-gradient-lights.uasset" 118
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/background-gradient-lights.uexp" 119
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/BP_MainMenu.uasset" 120
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/BP_MainMenu.uexp" 121
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 122
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uexp" 123
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Materials/M_Basic_Wall.uasset" 124
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Materials/M_Basic_Wall.uexp" 125
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Shapes/Shape_WideCapsule.ubulk" 126
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 127
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Shapes/Shape_WideCapsule.uexp" 128
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Shapes/Shape_Wedge_B.ubulk" 129
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 130
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Shapes/Shape_Wedge_B.uexp" 131
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Shapes/Shape_Wedge_A.ubulk" 132
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 133
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Shapes/Shape_Wedge_A.uexp" 134
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Shapes/Shape_Tube.ubulk" 135
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Shapes/Shape_Tube.uasset" 136
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Shapes/Shape_Tube.uexp" 137
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Shapes/Shape_TriPyramid.ubulk" 138
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 139
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Shapes/Shape_TriPyramid.uexp" 140
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Shapes/Shape_Trim_90_Out.ubulk" 141
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 142
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Shapes/Shape_Trim_90_Out.uexp" 143
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Shapes/Shape_Trim_90_In.ubulk" 144
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 145
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Shapes/Shape_Trim_90_In.uexp" 146
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Shapes/Shape_Trim.ubulk" 147
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Shapes/Shape_Trim.uasset" 148
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Shapes/Shape_Trim.uexp" 149
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Shapes/Shape_Torus.ubulk" 150
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Shapes/Shape_Torus.uasset" 151
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Shapes/Shape_Torus.uexp" 152
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Shapes/Shape_Pipe_90.ubulk" 153
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 154
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Shapes/Shape_Pipe_90.uexp" 155
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Shapes/Shape_Pipe_180.ubulk" 156
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 157
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Shapes/Shape_Pipe_180.uexp" 158
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Shapes/Shape_Pipe.ubulk" 159
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Shapes/Shape_Pipe.uasset" 160
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Shapes/Shape_Pipe.uexp" 161
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Shapes/Shape_NarrowCapsule.ubulk" 162
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 163
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Shapes/Shape_NarrowCapsule.uexp" 164
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Shapes/Shape_Cylinder.ubulk" 165
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 166
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Shapes/Shape_Cylinder.uexp" 167
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Shapes/Shape_Cone.ubulk" 168
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Shapes/Shape_Cone.uasset" 169
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Shapes/Shape_Cone.uexp" 170
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Materials/M_Basic_Floor.uasset" 171
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Materials/M_Basic_Floor.uexp" 172
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Props/SM_Stairs.ubulk" 173
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Props/SM_Stairs.uasset" 174
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Props/SM_Stairs.uexp" 175
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Shelf_N.ubulk" 176
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Shelf_N.uasset" 177
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Shelf_N.uexp" 178
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Shelf_M.ubulk" 179
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Shelf_M.uasset" 180
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Shelf_M.uexp" 181
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Props/Materials/M_Shelf.uasset" 182
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Props/Materials/M_Shelf.uexp" 183
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Props/SM_Shelf.ubulk" 184
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Props/SM_Shelf.uasset" 185
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Props/SM_Shelf.uexp" 186
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 187
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uexp" 188
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Detail_Rocky_N.ubulk" 189
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 190
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Detail_Rocky_N.uexp" 191
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Rock_Basalt_D.ubulk" 192
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 193
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Rock_Basalt_D.uexp" 194
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_RockMesh_N.ubulk" 195
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_RockMesh_N.uasset" 196
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_RockMesh_N.uexp" 197
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_RockMesh_M.ubulk" 198
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_RockMesh_M.uasset" 199
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_RockMesh_M.uexp" 200
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Props/Materials/M_Rock.uasset" 201
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Props/Materials/M_Rock.uexp" 202
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Props/SM_Rock.ubulk" 203
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Props/SM_Rock.uasset" 204
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Props/SM_Rock.uexp" 205
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Materials/M_Glass.uasset" 206
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Materials/M_Glass.uexp" 207
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Door_N.ubulk" 208
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Door_N.uasset" 209
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Door_N.uexp" 210
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Door_M.ubulk" 211
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Door_M.uasset" 212
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Door_M.uexp" 213
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Props/Materials/M_Door.uasset" 214
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Props/Materials/M_Door.uexp" 215
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Props/SM_Door.ubulk" 216
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Props/SM_Door.uasset" 217
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Props/SM_Door.uexp" 218
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Chair_N.ubulk" 219
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Chair_N.uasset" 220
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Chair_N.uexp" 221
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Chair_M.ubulk" 222
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Chair_M.uasset" 223
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Chair_M.uexp" 224
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Props/Materials/M_Chair.uasset" 225
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Props/Materials/M_Chair.uexp" 226
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Props/SM_Couch.ubulk" 227
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Props/SM_Couch.uasset" 228
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Props/SM_Couch.uexp" 229
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Bush_N.ubulk" 230
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Bush_N.uasset" 231
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Bush_N.uexp" 232
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Bush_D.ubulk" 233
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Bush_D.uasset" 234
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Bush_D.uexp" 235
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Props/Materials/M_Bush.uasset" 236
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Props/Materials/M_Bush.uexp" 237
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Props/SM_Bush.ubulk" 238
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Props/SM_Bush.uasset" 239
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Props/SM_Bush.uexp" 240
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.ubulk" 241
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 242
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uexp" 243
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 244
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uexp" 245
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Smoke_SubUV.ubulk" 246
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 247
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Smoke_SubUV.uexp" 248
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Smoke_Tiled_D.ubulk" 249
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 250
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Smoke_Tiled_D.uexp" 251
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 252
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Particles/Materials/M_smoke_subUV.uexp" 253
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Burst_M.ubulk" 254
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Burst_M.uasset" 255
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Burst_M.uexp" 256
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Particles/Materials/M_Burst.uasset" 257
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Particles/Materials/M_Burst.uexp" 258
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 259
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Particles/Materials/m_flare_01.uexp" 260
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Explosion_SubUV.ubulk" 261
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 262
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Explosion_SubUV.uexp" 263
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 264
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Particles/Materials/M_explosion_subUV.uexp" 265
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 266
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uexp" 267
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 268
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Particles/Materials/M_radial_ramp.uexp" 269
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Particles/P_Explosion.uasset" 270
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Particles/P_Explosion.uexp" 271
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Audio/Explosion_Cue.uasset" 272
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Audio/Explosion_Cue.uexp" 273
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 274
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uexp" 275
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Audio/Steam01.ubulk" 276
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Audio/Steam01.uasset" 277
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Audio/Steam01.uexp" 278
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Audio/Starter_Wind06.ubulk" 279
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Audio/Starter_Wind06.uasset" 280
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Audio/Starter_Wind06.uexp" 281
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Audio/Starter_Wind05.ubulk" 282
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Audio/Starter_Wind05.uasset" 283
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Audio/Starter_Wind05.uexp" 284
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Audio/Starter_Music01.ubulk" 285
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Audio/Starter_Music01.uasset" 286
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Audio/Starter_Music01.uexp" 287
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Audio/Starter_Birds01.ubulk" 288
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Audio/Starter_Birds01.uasset" 289
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Audio/Starter_Birds01.uexp" 290
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Audio/Smoke01.ubulk" 291
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Audio/Smoke01.uasset" 292
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Audio/Smoke01.uexp" 293
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Audio/Light02_Cue.uasset" 294
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Audio/Light02_Cue.uexp" 295
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Audio/Light02.ubulk" 296
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Audio/Light02.uasset" 297
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Audio/Light02.uexp" 298
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Audio/Light01_Cue.uasset" 299
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Audio/Light01_Cue.uexp" 300
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Audio/Light01.ubulk" 301
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Audio/Light01.uasset" 302
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Audio/Light01.uexp" 303
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Audio/Fire_Sparks01.ubulk" 304
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Audio/Fire_Sparks01.uasset" 305
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Audio/Fire_Sparks01.uexp" 306
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Audio/Fire01.ubulk" 307
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Audio/Fire01.uasset" 308
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Audio/Fire01.uexp" 309
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Audio/Explosion02.ubulk" 310
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Audio/Explosion02.uasset" 311
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Audio/Explosion02.uexp" 312
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Audio/Explosion01.ubulk" 313
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Audio/Explosion01.uasset" 314
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Audio/Explosion01.uexp" 315
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Audio/Collapse02.ubulk" 316
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Audio/Collapse02.uasset" 317
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Audio/Collapse02.uexp" 318
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Audio/Collapse01.ubulk" 319
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Audio/Collapse01.uasset" 320
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Audio/Collapse01.uexp" 321
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Architecture/Wall_Window_400x400.ubulk" 322
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 323
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Architecture/Wall_Window_400x400.uexp" 324
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Architecture/Wall_Door_400x400.ubulk" 325
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 326
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Architecture/Wall_Door_400x400.uexp" 327
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Architecture/Wall_500x500.ubulk" 328
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Architecture/Wall_500x500.uasset" 329
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Architecture/Wall_500x500.uexp" 330
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Architecture/Wall_400x400.ubulk" 331
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Architecture/Wall_400x400.uasset" 332
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Architecture/Wall_400x400.uexp" 333
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Architecture/Wall_400x300.ubulk" 334
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Architecture/Wall_400x300.uasset" 335
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Architecture/Wall_400x300.uexp" 336
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Architecture/Pillar_50x500.ubulk" 337
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Architecture/Pillar_50x500.uasset" 338
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Architecture/Pillar_50x500.uexp" 339
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/LevelPrototyping/Textures/T_GridChecker_A.ubulk" 340
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/LevelPrototyping/Textures/T_GridChecker_A.uasset" 341
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/LevelPrototyping/Textures/T_GridChecker_A.uexp" 342
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 343
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uexp" 344
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 345
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uexp" 346
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast.uasset" 347
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast.uexp" 348
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 349
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uexp" 350
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/LevelPrototyping/Materials/MF_ProcGrid.uasset" 351
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/LevelPrototyping/Materials/MF_ProcGrid.uexp" 352
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/LevelPrototyping/Materials/M_PrototypeGrid.uasset" 353
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/LevelPrototyping/Materials/M_PrototypeGrid.uexp" 354
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Gray.uasset" 355
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Gray.uexp" 356
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/LevelPrototyping/Meshes/SM_Ramp.ubulk" 357
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/LevelPrototyping/Meshes/SM_Ramp.uasset" 358
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/LevelPrototyping/Meshes/SM_Ramp.uexp" 359
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/LevelPrototyping/Meshes/SM_QuarterCylinder.ubulk" 360
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/LevelPrototyping/Meshes/SM_QuarterCylinder.uasset" 361
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/LevelPrototyping/Meshes/SM_QuarterCylinder.uexp" 362
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/LevelPrototyping/Meshes/SM_Cylinder.ubulk" 363
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/LevelPrototyping/Meshes/SM_Cylinder.uasset" 364
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/LevelPrototyping/Meshes/SM_Cylinder.uexp" 365
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/LevelPrototyping/Meshes/SM_Cube.ubulk" 366
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/LevelPrototyping/Meshes/SM_Cube.uasset" 367
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/LevelPrototyping/Meshes/SM_Cube.uexp" 368
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/LevelPrototyping/Materials/M_Solid.uasset" 369
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/LevelPrototyping/Materials/M_Solid.uexp" 370
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/LevelPrototyping/Materials/MI_Solid_Blue.uasset" 371
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/LevelPrototyping/Materials/MI_Solid_Blue.uexp" 372
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/LevelPrototyping/Meshes/SM_ChamferCube.ubulk" 373
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/LevelPrototyping/Meshes/SM_ChamferCube.uasset" 374
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/LevelPrototyping/Meshes/SM_ChamferCube.uexp" 375
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/LevelPrototyping/Materials/MI_PrototypeGrid_TopDark.uasset" 376
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/LevelPrototyping/Materials/MI_PrototypeGrid_TopDark.uexp" 377
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Gray_02.uasset" 378
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Gray_02.uexp" 379
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FPWeapon/Mesh/SK_FPGun_PhysicsAsset.uasset" 380
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FPWeapon/Mesh/SK_FPGun_PhysicsAsset.uexp" 381
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.ubulk" 382
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 383
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uexp" 384
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FPWeapon/Textures/T_FPGun_N.ubulk" 385
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FPWeapon/Textures/T_FPGun_N.uasset" 386
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FPWeapon/Textures/T_FPGun_N.uexp" 387
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 388
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uexp" 389
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.ubulk" 390
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 391
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uexp" 392
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FPWeapon/Materials/MaterialLayers/ML_Screen.uasset" 393
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FPWeapon/Materials/MaterialLayers/ML_Screen.uexp" 394
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.ubulk" 395
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 396
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uexp" 397
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.ubulk" 398
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 399
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uexp" 400
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 401
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uexp" 402
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 403
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uexp" 404
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FPWeapon/Textures/T_FPGun_M.ubulk" 405
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FPWeapon/Textures/T_FPGun_M.uasset" 406
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FPWeapon/Textures/T_FPGun_M.uexp" 407
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 408
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uexp" 409
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 410
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uexp" 411
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FPWeapon/Materials/M_FPGun.uasset" 412
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FPWeapon/Materials/M_FPGun.uexp" 413
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FPWeapon/Materials/MaterialLayers/T_ML_FineRubber.ubulk" 414
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FPWeapon/Materials/MaterialLayers/T_ML_FineRubber.uasset" 415
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FPWeapon/Materials/MaterialLayers/T_ML_FineRubber.uexp" 416
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FPWeapon/Audio/FirstPersonTemplateWeaponFire02.ubulk" 417
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FPWeapon/Audio/FirstPersonTemplateWeaponFire02.uasset" 418
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FPWeapon/Audio/FirstPersonTemplateWeaponFire02.uexp" 419
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 420
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uexp" 421
+"../../../Engine/Content/Animation/DefaultRecorderBoneCompression.uasset" 422
+"../../../Engine/Content/Animation/DefaultRecorderBoneCompression.uexp" 423
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPersonArms/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset" 424
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPersonArms/Character/Mesh/SK_Mannequin_Arms_Skeleton.uexp" 425
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPersonArms/Animations/FP_Walk_Fwd.uasset" 426
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPersonArms/Animations/FP_Walk_Fwd.uexp" 427
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPerson/Maps/FirstPersonMap_BuiltData.ubulk" 428
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPerson/Maps/FirstPersonMap_BuiltData.uasset" 429
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPerson/Maps/FirstPersonMap_BuiltData.uexp" 430
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 431
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uexp" 432
+"../../../Engine/Content/BasicShapes/Sphere.ubulk" 433
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 434
+"../../../Engine/Content/BasicShapes/Sphere.uexp" 435
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/Materials/M_Base.uasset" 436
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/Materials/M_Base.uexp" 437
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/Materials/MI_Base.uasset" 438
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/Materials/MI_Base.uexp" 439
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Skeleton.uasset" 440
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Skeleton.uexp" 441
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Mat.uasset" 442
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Mat.uexp" 443
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_PhysicsAsset.uasset" 444
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_PhysicsAsset.uexp" 445
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP.uasset" 446
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP.uexp" 447
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/PickupType.uasset" 448
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/PickupType.uexp" 449
+"../../../Engine/Content/BasicShapes/Cube1.ubulk" 450
+"../../../Engine/Content/BasicShapes/Cube1.uasset" 451
+"../../../Engine/Content/BasicShapes/Cube1.uexp" 452
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/MasterActor.uasset" 453
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/MasterActor.uexp" 454
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPerson/Input/Actions/IA_Look.uasset" 455
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPerson/Input/Actions/IA_Look.uexp" 456
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPersonArms/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.ubulk" 457
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPersonArms/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 458
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPersonArms/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uexp" 459
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPersonArms/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.ubulk" 460
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPersonArms/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 461
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPersonArms/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uexp" 462
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPersonArms/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 463
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPersonArms/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uexp" 464
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPersonArms/Character/Textures/UE4_Mannequin_MAT_MASKA.ubulk" 465
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPersonArms/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 466
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPersonArms/Character/Textures/UE4_Mannequin_MAT_MASKA.uexp" 467
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPersonArms/Character/Textures/UE4_LOGO_CARD.ubulk" 468
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPersonArms/Character/Textures/UE4_LOGO_CARD.uasset" 469
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPersonArms/Character/Textures/UE4_LOGO_CARD.uexp" 470
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPersonArms/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 471
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPersonArms/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uexp" 472
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPersonArms/Character/Materials/MaterialLayers/T_ML_Aluminum01.ubulk" 473
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPersonArms/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 474
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPersonArms/Character/Materials/MaterialLayers/T_ML_Aluminum01.uexp" 475
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPersonArms/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.ubulk" 476
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPersonArms/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 477
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPersonArms/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uexp" 478
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPersonArms/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 479
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPersonArms/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uexp" 480
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPersonArms/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 481
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPersonArms/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uexp" 482
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPersonArms/Character/Textures/UE4_Mannequin__normals.ubulk" 483
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPersonArms/Character/Textures/UE4_Mannequin__normals.uasset" 484
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPersonArms/Character/Textures/UE4_Mannequin__normals.uexp" 485
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPersonArms/Character/Materials/M_UE4Man_Body.uasset" 486
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPersonArms/Character/Materials/M_UE4Man_Body.uexp" 487
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPersonArms/Character/Mesh/SK_Mannequin_Arms_PhysicsAsset.uasset" 488
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPersonArms/Character/Mesh/SK_Mannequin_Arms_PhysicsAsset.uexp" 489
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPersonArms/Character/Mesh/SK_Mannequin_Arms.uasset" 490
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPersonArms/Character/Mesh/SK_Mannequin_Arms.uexp" 491
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPerson/Input/Actions/IA_Move.uasset" 492
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPerson/Input/Actions/IA_Move.uexp" 493
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPerson/Input/Actions/IA_Jump.uasset" 494
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPerson/Input/Actions/IA_Jump.uexp" 495
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPerson/Input/IMC_Default.uasset" 496
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPerson/Input/IMC_Default.uexp" 497
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPerson/Blueprints/EnemyAi/PlayerMat.uasset" 498
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPerson/Blueprints/EnemyAi/PlayerMat.uexp" 499
+"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 500
+"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uexp" 501
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPersonArms/Animations/FP_Rifle_Idle.uasset" 502
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPersonArms/Animations/FP_Rifle_Idle.uexp" 503
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPersonArms/Animations/FP_Rifle_Land.uasset" 504
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPersonArms/Animations/FP_Rifle_Land.uexp" 505
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPersonArms/Animations/FP_Rifle_Run.uasset" 506
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPersonArms/Animations/FP_Rifle_Run.uexp" 507
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPersonArms/Animations/FP_Rifle_Falling.uasset" 508
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPersonArms/Animations/FP_Rifle_Falling.uexp" 509
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPersonArms/Animations/FP_Idle.uasset" 510
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPersonArms/Animations/FP_Idle.uexp" 511
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPersonArms/Animations/FP_Jump.uasset" 512
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPersonArms/Animations/FP_Jump.uexp" 513
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPersonArms/Animations/FP_Run_Fwd.uasset" 514
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPersonArms/Animations/FP_Run_Fwd.uexp" 515
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPersonArms/Animations/FP_Land.uasset" 516
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPersonArms/Animations/FP_Land.uexp" 517
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPersonArms/Animations/FP_Falling.uasset" 518
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPersonArms/Animations/FP_Falling.uexp" 519
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPersonArms/Animations/FP_Rifle_Jump.uasset" 520
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPersonArms/Animations/FP_Rifle_Jump.uexp" 521
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPersonArms/Animations/FirstPerson_AnimBP.uasset" 522
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPersonArms/Animations/FirstPerson_AnimBP.uexp" 523
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset" 524
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uexp" 525
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/Base_Pickup.uasset" 526
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/Base_Pickup.uexp" 527
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPerson/Blueprints/PlayerCharacter.uasset" 528
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPerson/Blueprints/PlayerCharacter.uexp" 529
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPerson/Blueprints/Base_Enemy.uasset" 530
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPerson/Blueprints/Base_Enemy.uexp" 531
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPerson/Blueprints/EnemyChar.uasset" 532
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPerson/Blueprints/EnemyChar.uexp" 533
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FPWeapon/Materials/BaseMaterial.uasset" 534
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FPWeapon/Materials/BaseMaterial.uexp" 535
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FPWeapon/Materials/FirstPersonProjectileMaterial.uasset" 536
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FPWeapon/Materials/FirstPersonProjectileMaterial.uexp" 537
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FPWeapon/Mesh/FirstPersonProjectileMesh.ubulk" 538
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FPWeapon/Mesh/FirstPersonProjectileMesh.uasset" 539
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FPWeapon/Mesh/FirstPersonProjectileMesh.uexp" 540
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset" 541
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uexp" 542
+"../../../Engine/Content/EngineMeshes/SkeletalCube_Skeleton.uasset" 543
+"../../../Engine/Content/EngineMeshes/SkeletalCube_Skeleton.uexp" 544
+"../../../Engine/Content/EngineMeshes/SkeletalCube.uasset" 545
+"../../../Engine/Content/EngineMeshes/SkeletalCube.uexp" 546
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.ubulk" 547
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 548
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uexp" 549
+"../../../Engine/Content/EngineDebugMaterials/Rainbow.uasset" 550
+"../../../Engine/Content/EngineDebugMaterials/Rainbow.uexp" 551
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPerson/Blueprints/FirstPersonProjectile.uasset" 552
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPerson/Blueprints/FirstPersonProjectile.uexp" 553
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPerson/Blueprints/EnemyAi/Mat1_4.uasset" 554
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPerson/Blueprints/EnemyAi/Mat1_4.uexp" 555
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPerson/Blueprints/EnemyAi/Enemy.uasset" 556
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPerson/Blueprints/EnemyAi/Enemy.uexp" 557
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPerson/Blueprints/EnemyAi/Enemy_Child.uasset" 558
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPerson/Blueprints/EnemyAi/Enemy_Child.uexp" 559
+"../../../Engine/Plugins/Runtime/MeshModelingToolset/Content/Materials/M_DynamicMeshComponentVtxColor.uasset" 560
+"../../../Engine/Plugins/Runtime/MeshModelingToolset/Content/Materials/M_DynamicMeshComponentVtxColor.uexp" 561
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultTexturePipeline.uasset" 562
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultTexturePipeline.uexp" 563
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultSceneLevelPipeline.uasset" 564
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultSceneLevelPipeline.uexp" 565
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultSceneAssetsPipeline.uasset" 566
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultSceneAssetsPipeline.uexp" 567
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultMaterialPipeline.uasset" 568
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultMaterialPipeline.uexp" 569
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultAssetsPipeline.uasset" 570
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultAssetsPipeline.uexp" 571
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.ubulk" 572
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 573
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uexp" 574
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 575
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uexp" 576
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 577
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uexp" 578
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 579
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uexp" 580
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 581
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uexp" 582
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 583
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uexp" 584
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uasset" 585
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uexp" 586
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset" 587
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uexp" 588
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 589
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uexp" 590
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 591
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uexp" 592
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 593
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uexp" 594
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset" 595
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uexp" 596
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/EmptyNormal.uasset" 597
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/EmptyNormal.uexp" 598
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/Empty.uasset" 599
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/Empty.uexp" 600
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset" 601
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uexp" 602
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset" 603
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uexp" 604
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset" 605
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uexp" 606
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 607
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uexp" 608
+"../../../Engine/Plugins/Animation/ControlRig/Content/M_Manip.uasset" 609
+"../../../Engine/Plugins/Animation/ControlRig/Content/M_Manip.uexp" 610
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/DefaultGizmoLibraryNormalized.uasset" 611
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/DefaultGizmoLibraryNormalized.uexp" 612
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_solid.ubulk" 613
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_solid.uasset" 614
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_solid.uexp" 615
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_3mm.ubulk" 616
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_3mm.uasset" 617
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_3mm.uexp" 618
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_1mm.ubulk" 619
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_1mm.uasset" 620
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_1mm.uexp" 621
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_solid.ubulk" 622
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_solid.uasset" 623
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_solid.uexp" 624
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_3mm.ubulk" 625
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_3mm.uasset" 626
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_3mm.uexp" 627
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_1mm.ubulk" 628
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_1mm.uasset" 629
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_1mm.uexp" 630
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_solid.ubulk" 631
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_solid.uasset" 632
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_solid.uexp" 633
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_3mm.ubulk" 634
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_3mm.uasset" 635
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_3mm.uexp" 636
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_1mm.ubulk" 637
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_1mm.uasset" 638
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_1mm.uexp" 639
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_solid.ubulk" 640
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_solid.uasset" 641
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_solid.uexp" 642
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_3mm.ubulk" 643
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_3mm.uasset" 644
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_3mm.uexp" 645
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_1mm.ubulk" 646
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_1mm.uasset" 647
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_1mm.uexp" 648
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_solid.ubulk" 649
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_solid.uasset" 650
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_solid.uexp" 651
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_3mm.ubulk" 652
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_3mm.uasset" 653
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_3mm.uexp" 654
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_1mm.ubulk" 655
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_1mm.uasset" 656
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_1mm.uexp" 657
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_solid.ubulk" 658
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_solid.uasset" 659
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_solid.uexp" 660
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_3mm.ubulk" 661
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_3mm.uasset" 662
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_3mm.uexp" 663
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_1mm.ubulk" 664
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_1mm.uasset" 665
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_1mm.uexp" 666
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_solid.ubulk" 667
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_solid.uasset" 668
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_solid.uexp" 669
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_3mm.ubulk" 670
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_3mm.uasset" 671
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_3mm.uexp" 672
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_1mm.ubulk" 673
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_1mm.uasset" 674
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_1mm.uexp" 675
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_solid.ubulk" 676
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_solid.uasset" 677
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_solid.uexp" 678
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_3mm.ubulk" 679
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_3mm.uasset" 680
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_3mm.uexp" 681
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_1mm.ubulk" 682
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_1mm.uasset" 683
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_1mm.uexp" 684
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_solid.ubulk" 685
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_solid.uasset" 686
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_solid.uexp" 687
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_3mm.ubulk" 688
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_3mm.uasset" 689
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_3mm.uexp" 690
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_1mm.ubulk" 691
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_1mm.uasset" 692
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_1mm.uexp" 693
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_solid.ubulk" 694
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_solid.uasset" 695
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_solid.uexp" 696
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_3mm.ubulk" 697
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_3mm.uasset" 698
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_3mm.uexp" 699
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_1mm.ubulk" 700
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_1mm.uasset" 701
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_1mm.uexp" 702
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_solid.ubulk" 703
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_solid.uasset" 704
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_solid.uexp" 705
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_3mm.ubulk" 706
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_3mm.uasset" 707
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_3mm.uexp" 708
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_1mm.ubulk" 709
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_1mm.uasset" 710
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_1mm.uexp" 711
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_solid.ubulk" 712
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_solid.uasset" 713
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_solid.uexp" 714
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_3mm.ubulk" 715
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_3mm.uasset" 716
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_3mm.uexp" 717
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_1mm.ubulk" 718
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_1mm.uasset" 719
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_1mm.uexp" 720
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_solid.ubulk" 721
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_solid.uasset" 722
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_solid.uexp" 723
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_3mm.ubulk" 724
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_3mm.uasset" 725
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_3mm.uexp" 726
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_1mm.ubulk" 727
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_1mm.uasset" 728
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_1mm.uexp" 729
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_solid.ubulk" 730
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_solid.uasset" 731
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_solid.uexp" 732
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_3mm.ubulk" 733
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_3mm.uasset" 734
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_3mm.uexp" 735
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_1mm.ubulk" 736
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_1mm.uasset" 737
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_1mm.uexp" 738
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_solid.ubulk" 739
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_solid.uasset" 740
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_solid.uexp" 741
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_3mm.ubulk" 742
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_3mm.uasset" 743
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_3mm.uexp" 744
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_1mm.ubulk" 745
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_1mm.uasset" 746
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_1mm.uexp" 747
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_solid.ubulk" 748
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_solid.uasset" 749
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_solid.uexp" 750
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_3mm.ubulk" 751
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_3mm.uasset" 752
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_3mm.uexp" 753
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_1mm.ubulk" 754
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_1mm.uasset" 755
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_1mm.uexp" 756
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_solid.ubulk" 757
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_solid.uasset" 758
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_solid.uexp" 759
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_3mm.ubulk" 760
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_3mm.uasset" 761
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_3mm.uexp" 762
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_1mm.ubulk" 763
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_1mm.uasset" 764
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_1mm.uexp" 765
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_solid.ubulk" 766
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_solid.uasset" 767
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_solid.uexp" 768
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_3mm.ubulk" 769
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_3mm.uasset" 770
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_3mm.uexp" 771
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_1mm.ubulk" 772
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_1mm.uasset" 773
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_1mm.uexp" 774
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRigXRayMaterial.uasset" 775
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRigXRayMaterial.uexp" 776
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRigGizmoMaterial.uasset" 777
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRigGizmoMaterial.uexp" 778
+"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.ubulk" 779
+"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 780
+"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uexp" 781
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 782
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uexp" 783
+"../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 784
+"../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uexp" 785
+"../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 786
+"../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uexp" 787
+"../../../Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset" 788
+"../../../Engine/Plugins/2D/Paper2D/Content/DummySprite.uexp" 789
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 790
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uexp" 791
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 792
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uexp" 793
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 794
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uexp" 795
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 796
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uexp" 797
+"../../../Engine/Content/Maps/Templates/HLODs/HLODLayer_Merged.uasset" 798
+"../../../Engine/Content/Maps/Templates/HLODs/HLODLayer_Merged.uexp" 799
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 800
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uexp" 801
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 802
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uexp" 803
+"../../../Engine/Content/EngineSounds/Master.uasset" 804
+"../../../Engine/Content/EngineSounds/Master.uexp" 805
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uasset" 806
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uexp" 807
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 808
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uexp" 809
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uasset" 810
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uexp" 811
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.ubulk" 812
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uasset" 813
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uexp" 814
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uasset" 815
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uexp" 816
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.ubulk" 817
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uasset" 818
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uexp" 819
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uasset" 820
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uexp" 821
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset" 822
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uexp" 823
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uasset" 824
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uexp" 825
+"../../../Engine/Content/EngineResources/FilmGrains/Marcie_Grain_v3_128_M2_000.uasset" 826
+"../../../Engine/Content/EngineResources/FilmGrains/Marcie_Grain_v3_128_M2_000.uexp" 827
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 828
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uexp" 829
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 830
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uexp" 831
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 832
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uexp" 833
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 834
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uexp" 835
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 836
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uexp" 837
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 838
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uexp" 839
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 840
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uexp" 841
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 842
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uexp" 843
+"../../../Engine/Content/EngineMaterials/STBlueNoise_vec2_128x128x64.uasset" 844
+"../../../Engine/Content/EngineMaterials/STBlueNoise_vec2_128x128x64.uexp" 845
+"../../../Engine/Content/EngineMaterials/STBlueNoise_scalar_128x128x64.uasset" 846
+"../../../Engine/Content/EngineMaterials/STBlueNoise_scalar_128x128x64.uexp" 847
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 848
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uexp" 849
+"../../../Engine/Content/EngineMaterials/DefaultCalibrationGrayscale.uasset" 850
+"../../../Engine/Content/EngineMaterials/DefaultCalibrationGrayscale.uexp" 851
+"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationGrayscale.uasset" 852
+"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationGrayscale.uexp" 853
+"../../../Engine/Content/EngineMaterials/DefaultCalibrationColor.uasset" 854
+"../../../Engine/Content/EngineMaterials/DefaultCalibrationColor.uexp" 855
+"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationColor.uasset" 856
+"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationColor.uexp" 857
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 858
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uexp" 859
+"../../../Engine/Content/EngineMaterials/NaniteHiddenSectionMaterial.uasset" 860
+"../../../Engine/Content/EngineMaterials/NaniteHiddenSectionMaterial.uexp" 861
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.ubulk" 862
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 863
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uexp" 864
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 865
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uexp" 866
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 867
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uexp" 868
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap_VT.uasset" 869
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap_VT.uexp" 870
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap_VT.uasset" 871
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap_VT.uexp" 872
+"../../../Engine/Content/EngineMaterials/BaseFlattenLinearColor_VT.uasset" 873
+"../../../Engine/Content/EngineMaterials/BaseFlattenLinearColor_VT.uexp" 874
+"../../../Engine/Content/EngineMaterials/Black_1x1_EXR_Texture_VT.uasset" 875
+"../../../Engine/Content/EngineMaterials/Black_1x1_EXR_Texture_VT.uexp" 876
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap_VT.uasset" 877
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap_VT.uexp" 878
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap_VT.uasset" 879
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap_VT.uexp" 880
+"../../../Engine/Content/EngineMaterials/FlattenMaterial_WS_Normal_VT.uasset" 881
+"../../../Engine/Content/EngineMaterials/FlattenMaterial_WS_Normal_VT.uexp" 882
+"../../../Engine/Content/EngineMaterials/FlattenMaterial_VT.uasset" 883
+"../../../Engine/Content/EngineMaterials/FlattenMaterial_VT.uexp" 884
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 885
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uexp" 886
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 887
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uexp" 888
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 889
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uexp" 890
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/PivotPainter2/Black_1x1_EXR_Texture.uasset" 891
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/PivotPainter2/Black_1x1_EXR_Texture.uexp" 892
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 893
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uexp" 894
+"../../../Engine/Content/EngineMaterials/BaseFlattenLinearColor.uasset" 895
+"../../../Engine/Content/EngineMaterials/BaseFlattenLinearColor.uexp" 896
+"../../../Engine/Content/EngineMaterials/FlattenMaterial.uasset" 897
+"../../../Engine/Content/EngineMaterials/FlattenMaterial.uexp" 898
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 899
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uexp" 900
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 901
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uexp" 902
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 903
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uexp" 904
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 905
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uexp" 906
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.ubulk" 907
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 908
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uexp" 909
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 910
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uexp" 911
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 912
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uexp" 913
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 914
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uexp" 915
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 916
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uexp" 917
+"../../../Engine/Content/EngineMaterials/DefaultDestructiblePhysicalMaterial.uasset" 918
+"../../../Engine/Content/EngineMaterials/DefaultDestructiblePhysicalMaterial.uexp" 919
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 920
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uexp" 921
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 922
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uexp" 923
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uexp" 924
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 925
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.ufont" 926
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uexp" 927
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 928
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.ufont" 929
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uexp" 930
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 931
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.ufont" 932
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uexp" 933
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 934
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.ufont" 935
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uexp" 936
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 937
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.ufont" 938
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uexp" 939
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 940
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.ufont" 941
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 942
+"../../../Engine/Content/EngineFonts/Roboto.uexp" 943
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 944
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uexp" 945
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 946
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uexp" 947
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 948
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uexp" 949
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset" 950
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uexp" 951
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 952
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uexp" 953
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 954
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uexp" 955
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 956
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uexp" 957
+"../../../Engine/Content/EditorResources/S_Terrain.ubulk" 958
+"../../../Engine/Content/EditorResources/S_Terrain.uasset" 959
+"../../../Engine/Content/EditorResources/S_Terrain.uexp" 960
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 961
+"../../../Engine/Content/EditorResources/EmptyActor.uexp" 962
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 963
+"../../../Engine/Content/EditorResources/BSPVertex.uexp" 964
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 965
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uexp" 966
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 967
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uexp" 968
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 969
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uexp" 970
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 971
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uexp" 972
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 973
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uexp" 974
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.ubulk" 975
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 976
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uexp" 977
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 978
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uexp" 979
+"../../../Engine/Content/EditorMaterials/PhAT_UnselectedMaterial.uasset" 980
+"../../../Engine/Content/EditorMaterials/PhAT_UnselectedMaterial.uexp" 981
+"../../../Engine/Content/EditorMaterials/PhAT_NoCollisionMaterial.uasset" 982
+"../../../Engine/Content/EditorMaterials/PhAT_NoCollisionMaterial.uexp" 983
+"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uasset" 984
+"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uexp" 985
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 986
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uexp" 987
+"../../../Engine/Content/BasicShapes/Plane.ubulk" 988
+"../../../Engine/Content/BasicShapes/Plane.uasset" 989
+"../../../Engine/Content/BasicShapes/Plane.uexp" 990
+"../../../Engine/Content/BasicShapes/Cylinder.ubulk" 991
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 992
+"../../../Engine/Content/BasicShapes/Cylinder.uexp" 993
+"../../../Engine/Content/BasicShapes/Cone.ubulk" 994
+"../../../Engine/Content/BasicShapes/Cone.uasset" 995
+"../../../Engine/Content/BasicShapes/Cone.uexp" 996
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/BP_VictoryAndNextLevel.uasset" 997
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/BP_VictoryAndNextLevel.uexp" 998
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/VictoryAndNextLevel.uexp" 999
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/VictoryAndNextLevel.umap" 1000
+"../../../Engine/Content/BasicShapes/Cube.ubulk" 1001
+"../../../Engine/Content/BasicShapes/Cube.uasset" 1002
+"../../../Engine/Content/BasicShapes/Cube.uexp" 1003
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBlend.uasset" 1004
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBlend.uexp" 1005
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBase.uasset" 1006
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBase.uexp" 1007
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Overlay.uasset" 1008
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Overlay.uexp" 1009
+"../../../Engine/Content/OpenWorldTemplate/LandscapeMaterial/T_GridChecker_A.ubulk" 1010
+"../../../Engine/Content/OpenWorldTemplate/LandscapeMaterial/T_GridChecker_A.uasset" 1011
+"../../../Engine/Content/OpenWorldTemplate/LandscapeMaterial/T_GridChecker_A.uexp" 1012
+"../../../Engine/Content/OpenWorldTemplate/LandscapeMaterial/MF_ProcGrid.uasset" 1013
+"../../../Engine/Content/OpenWorldTemplate/LandscapeMaterial/MF_ProcGrid.uexp" 1014
+"../../../Engine/Content/OpenWorldTemplate/LandscapeMaterial/M_ProcGrid.uasset" 1015
+"../../../Engine/Content/OpenWorldTemplate/LandscapeMaterial/M_ProcGrid.uexp" 1016
+"../../../Engine/Content/OpenWorldTemplate/LandscapeMaterial/MI_ProcGrid.uasset" 1017
+"../../../Engine/Content/OpenWorldTemplate/LandscapeMaterial/MI_ProcGrid.uexp" 1018
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset" 1019
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uexp" 1020
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPerson/Input/Actions/IA_Shoot.uasset" 1021
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPerson/Input/Actions/IA_Shoot.uexp" 1022
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPerson/Input/IMC_Weapons.uasset" 1023
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPerson/Input/IMC_Weapons.uexp" 1024
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPerson/Blueprints/EnemyAi/StunMat.uasset" 1025
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPerson/Blueprints/EnemyAi/StunMat.uexp" 1026
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset" 1027
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FPWeapon/Mesh/SK_FPGun_Skeleton.uexp" 1028
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FPWeapon/Mesh/SK_FPGun_Physics.uasset" 1029
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FPWeapon/Mesh/SK_FPGun_Physics.uexp" 1030
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FPWeapon/Mesh/SK_FPGun.uasset" 1031
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FPWeapon/Mesh/SK_FPGun.uexp" 1032
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/8-bit-cannon-fire-96505_wav.ubulk" 1033
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/8-bit-cannon-fire-96505_wav.uasset" 1034
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/8-bit-cannon-fire-96505_wav.uexp" 1035
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPersonArms/Animations/FP_Rifle_Fire.uasset" 1036
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPersonArms/Animations/FP_Rifle_Fire.uexp" 1037
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPersonArms/Animations/FP_Rifle_Shoot_Montage.uasset" 1038
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPersonArms/Animations/FP_Rifle_Shoot_Montage.uexp" 1039
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset" 1040
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPerson/Blueprints/BP_Weapon_Component.uexp" 1041
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPerson/Blueprints/BP_Pickup_Rifle.uasset" 1042
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPerson/Blueprints/BP_Pickup_Rifle.uexp" 1043
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/Midterm.uexp" 1044
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/Midterm.umap" 1045
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/MainMenu.uexp" 1046
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/MainMenu.umap" 1047
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/BP_GameOver.uasset" 1048
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/BP_GameOver.uexp" 1049
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/GameOver.uexp" 1050
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/GameOver.umap" 1051
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPerson/Blueprints/EnemyAI.uasset" 1052
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPerson/Blueprints/EnemyAI.uexp" 1053
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Spark_Core.ubulk" 1054
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Spark_Core.uasset" 1055
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Spark_Core.uexp" 1056
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Particles/Materials/M_Spark.uasset" 1057
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Particles/Materials/M_Spark.uexp" 1058
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 1059
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uexp" 1060
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Particles/P_Sparks.uasset" 1061
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Particles/P_Sparks.uexp" 1062
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPerson/Blueprints/EnemyAi/Mat1_2.uasset" 1063
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPerson/Blueprints/EnemyAi/Mat1_2.uexp" 1064
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPerson/Blueprints/EnemyAi/Enemy_2.uasset" 1065
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPerson/Blueprints/EnemyAi/Enemy_2.uexp" 1066
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPerson/Blueprints/EnemyAi/Mat1.uasset" 1067
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPerson/Blueprints/EnemyAi/Mat1.uexp" 1068
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPerson/Blueprints/EnemyAi/Enemy_3.uasset" 1069
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPerson/Blueprints/EnemyAi/Enemy_3.uexp" 1070
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPerson/Blueprints/EnemyAi/Mat1_3.uasset" 1071
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPerson/Blueprints/EnemyAi/Mat1_3.uexp" 1072
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPerson/Blueprints/EnemyAi/Enemy_4.uasset" 1073
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPerson/Blueprints/EnemyAi/Enemy_4.uexp" 1074
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 1075
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uexp" 1076
+"../../../Engine/Content/EngineSky/T_Sky_Stars.ubulk" 1077
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 1078
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uexp" 1079
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.ubulk" 1080
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 1081
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uexp" 1082
+"../../../Engine/Content/EngineSky/T_Sky_Blue.ubulk" 1083
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 1084
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uexp" 1085
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 1086
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uexp" 1087
+"../../../Engine/Content/EngineSky/SM_SkySphere.ubulk" 1088
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 1089
+"../../../Engine/Content/EngineSky/SM_SkySphere.uexp" 1090
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 1091
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uexp" 1092
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 1093
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uexp" 1094
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 1095
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uexp" 1096
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Shapes/Shape_Plane.ubulk" 1097
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Shapes/Shape_Plane.uasset" 1098
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Shapes/Shape_Plane.uexp" 1099
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/GeometryType.uasset" 1100
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/GeometryType.uexp" 1101
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/Base_Geometry.uasset" 1102
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/Base_Geometry.uexp" 1103
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/effect_notify-84408.ubulk" 1104
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/effect_notify-84408.uasset" 1105
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/effect_notify-84408.uexp" 1106
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/Pickups/PickupMAT.uasset" 1107
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/Pickups/PickupMAT.uexp" 1108
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/Pickups/PickupCube.uasset" 1109
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/Pickups/PickupCube.uexp" 1110
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/hurt_c_08-102842.ubulk" 1111
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/hurt_c_08-102842.uasset" 1112
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/hurt_c_08-102842.uexp" 1113
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/BP_Pickup_UI.uasset" 1114
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/BP_Pickup_UI.uexp" 1115
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/Pickups/PickupPowerMAT.uasset" 1116
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/Pickups/PickupPowerMAT.uexp" 1117
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/8-bit-powerup-6768.ubulk" 1118
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/8-bit-powerup-6768.uasset" 1119
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/8-bit-powerup-6768.uexp" 1120
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/Pickups/PickupPower.uasset" 1121
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/Pickups/PickupPower.uexp" 1122
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/Level0.uexp" 1123
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/Level0.umap" 1124
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Frame_M.ubulk" 1125
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Frame_M.uasset" 1126
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Frame_M.uexp" 1127
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Frame_N.ubulk" 1128
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Frame_N.uasset" 1129
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Frame_N.uexp" 1130
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Props/Materials/M_Frame.uasset" 1131
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Props/Materials/M_Frame.uexp" 1132
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Props/SM_DoorFrame.ubulk" 1133
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Props/SM_DoorFrame.uasset" 1134
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Props/SM_DoorFrame.uexp" 1135
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_MacroVariation.uasset" 1136
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_MacroVariation.uexp" 1137
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 1138
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uexp" 1139
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Lamp_N.ubulk" 1140
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Lamp_N.uasset" 1141
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Lamp_N.uexp" 1142
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Lamp_M.ubulk" 1143
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Lamp_M.uasset" 1144
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Lamp_M.uexp" 1145
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Props/Materials/M_Lamp.uasset" 1146
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Props/Materials/M_Lamp.uexp" 1147
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Props/SM_Lamp_Ceiling.ubulk" 1148
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 1149
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Props/SM_Lamp_Ceiling.uexp" 1150
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 1151
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uexp" 1152
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 1153
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uexp" 1154
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 1155
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uexp" 1156
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Architecture/Wall_Door_400x300.ubulk" 1157
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 1158
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Architecture/Wall_Door_400x300.uexp" 1159
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Wood_Pine_D.ubulk" 1160
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 1161
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Wood_Pine_D.uexp" 1162
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Wood_Pine_N.ubulk" 1163
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 1164
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Wood_Pine_N.uexp" 1165
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Perlin_Noise_M.ubulk" 1166
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 1167
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Perlin_Noise_M.uexp" 1168
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Materials/M_Wood_Pine.uasset" 1169
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Materials/M_Wood_Pine.uexp" 1170
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.ubulk" 1171
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 1172
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uexp" 1173
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.ubulk" 1174
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 1175
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uexp" 1176
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Gradinet_01.ubulk" 1177
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Gradinet_01.uasset" 1178
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Gradinet_01.uexp" 1179
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.ubulk" 1180
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 1181
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uexp" 1182
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.ubulk" 1183
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 1184
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uexp" 1185
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 1186
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Materials/M_CobbleStone_Smooth.uexp" 1187
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Rock_Basalt_N.ubulk" 1188
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 1189
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Rock_Basalt_N.uexp" 1190
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 1191
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Materials/M_Rock_Basalt.uexp" 1192
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Shapes/Shape_Cube.ubulk" 1193
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Shapes/Shape_Cube.uasset" 1194
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Shapes/Shape_Cube.uexp" 1195
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.ubulk" 1196
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 1197
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uexp" 1198
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Concrete_Tiles_D.ubulk" 1199
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 1200
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Concrete_Tiles_D.uexp" 1201
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Concrete_Tiles_M.ubulk" 1202
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 1203
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Concrete_Tiles_M.uexp" 1204
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Concrete_Tiles_N.ubulk" 1205
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 1206
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Concrete_Tiles_N.uexp" 1207
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 1208
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Materials/M_Concrete_Tiles.uexp" 1209
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Props/MaterialSphere.ubulk" 1210
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Props/MaterialSphere.uasset" 1211
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Props/MaterialSphere.uexp" 1212
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Metal_Rust_N.ubulk" 1213
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 1214
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Metal_Rust_N.uexp" 1215
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Metal_Rust_D.ubulk" 1216
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 1217
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Metal_Rust_D.uexp" 1218
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Materials/M_Metal_Rust.uasset" 1219
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Materials/M_Metal_Rust.uexp" 1220
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Rock_Slate_D.ubulk" 1221
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 1222
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Rock_Slate_D.uexp" 1223
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Rock_Slate_N.ubulk" 1224
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 1225
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Rock_Slate_N.uexp" 1226
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Materials/M_Rock_Slate.uasset" 1227
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Materials/M_Rock_Slate.uexp" 1228
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Concrete_Poured_D.ubulk" 1229
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 1230
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Concrete_Poured_D.uexp" 1231
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Concrete_Poured_N.ubulk" 1232
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 1233
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Concrete_Poured_N.uexp" 1234
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 1235
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Materials/M_Concrete_Poured.uexp" 1236
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.ubulk" 1237
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 1238
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uexp" 1239
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.ubulk" 1240
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 1241
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uexp" 1242
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.ubulk" 1243
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 1244
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uexp" 1245
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 1246
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uexp" 1247
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.ubulk" 1248
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 1249
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uexp" 1250
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.ubulk" 1251
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 1252
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uexp" 1253
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 1254
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Materials/M_Tech_Hex_Tile.uexp" 1255
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 1256
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uexp" 1257
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.ubulk" 1258
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 1259
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uexp" 1260
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.ubulk" 1261
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 1262
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uexp" 1263
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.ubulk" 1264
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 1265
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uexp" 1266
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 1267
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uexp" 1268
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Ground_Gravel_N.ubulk" 1269
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 1270
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Ground_Gravel_N.uexp" 1271
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Ground_Gravel_D.ubulk" 1272
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 1273
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Ground_Gravel_D.uexp" 1274
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 1275
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Materials/M_Ground_Gravel.uexp" 1276
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Audio/Steam01_Cue.uasset" 1277
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Audio/Steam01_Cue.uexp" 1278
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Particles/P_Steam_Lit.uasset" 1279
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Particles/P_Steam_Lit.uexp" 1280
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 1281
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uexp" 1282
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 1283
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Audio/Fire_Sparks01_Cue.uexp" 1284
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 1285
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uexp" 1286
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Water_N.ubulk" 1287
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Water_N.uasset" 1288
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Water_N.uexp" 1289
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Materials/M_Water_Lake.uasset" 1290
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Materials/M_Water_Lake.uexp" 1291
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Architecture/Wall_400x200.ubulk" 1292
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Architecture/Wall_400x200.uasset" 1293
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Architecture/Wall_400x200.uexp" 1294
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Checker_Noise_M.ubulk" 1295
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 1296
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Checker_Noise_M.uexp" 1297
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Tech_Dot_M.ubulk" 1298
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 1299
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Tech_Dot_M.uexp" 1300
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Tech_Dot_N.ubulk" 1301
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 1302
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Tech_Dot_N.uexp" 1303
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Single_Tile_N.ubulk" 1304
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 1305
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Single_Tile_N.uexp" 1306
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 1307
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Materials/M_Tech_Checker_Dot.uexp" 1308
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Architecture/Floor_400x400.ubulk" 1309
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Architecture/Floor_400x400.uasset" 1310
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Architecture/Floor_400x400.uexp" 1311
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Props/SM_GlassWindow.ubulk" 1312
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Props/SM_GlassWindow.uasset" 1313
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Props/SM_GlassWindow.uexp" 1314
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Metal_Gold_N.ubulk" 1315
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 1316
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Metal_Gold_N.uexp" 1317
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.ubulk" 1318
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 1319
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uexp" 1320
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 1321
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Materials/M_Rock_Marble_Polished.uexp" 1322
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Concrete_Grime_D.ubulk" 1323
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 1324
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Concrete_Grime_D.uexp" 1325
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 1326
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Materials/M_Concrete_Grime.uexp" 1327
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Ceramic_Tile_M.ubulk" 1328
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 1329
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Ceramic_Tile_M.uexp" 1330
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Ceramic_Tile_N.ubulk" 1331
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 1332
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Ceramic_Tile_N.uexp" 1333
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 1334
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uexp" 1335
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Rock_Sandstone_N.ubulk" 1336
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 1337
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Rock_Sandstone_N.uexp" 1338
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Rock_Sandstone_D.ubulk" 1339
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 1340
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Rock_Sandstone_D.uexp" 1341
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 1342
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Materials/M_Rock_Sandstone.uexp" 1343
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Wood_Walnut_N.ubulk" 1344
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 1345
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Wood_Walnut_N.uexp" 1346
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Wood_Walnut_D.ubulk" 1347
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 1348
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Wood_Walnut_D.uexp" 1349
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 1350
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Materials/M_Wood_Walnut.uexp" 1351
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Audio/Collapse_Cue.uasset" 1352
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Audio/Collapse_Cue.uexp" 1353
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.ubulk" 1354
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 1355
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uexp" 1356
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.ubulk" 1357
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 1358
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uexp" 1359
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 1360
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Materials/M_Brick_Cut_Stone.uexp" 1361
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Dust_Particle_D.ubulk" 1362
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 1363
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Dust_Particle_D.uexp" 1364
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 1365
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Particles/Materials/M_Dust_Particle.uexp" 1366
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 1367
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Particles/P_Ambient_Dust.uexp" 1368
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Props/SM_WindowFrame.ubulk" 1369
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Props/SM_WindowFrame.uasset" 1370
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Props/SM_WindowFrame.uexp" 1371
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Metal_Copper_D.ubulk" 1372
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 1373
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Metal_Copper_D.uexp" 1374
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Materials/M_Metal_Copper.uasset" 1375
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Materials/M_Metal_Copper.uexp" 1376
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Water_M.ubulk" 1377
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Water_M.uasset" 1378
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Water_M.uexp" 1379
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Materials/M_Water_Ocean.uasset" 1380
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Materials/M_Water_Ocean.uexp" 1381
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.ubulk" 1382
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 1383
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uexp" 1384
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.ubulk" 1385
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 1386
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uexp" 1387
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.ubulk" 1388
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 1389
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uexp" 1390
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 1391
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Materials/M_CobbleStone_Pebble.uexp" 1392
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Brick_Clay_Old_N.ubulk" 1393
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 1394
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uexp" 1395
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Brick_Clay_Old_D.ubulk" 1396
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 1397
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uexp" 1398
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 1399
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Materials/M_Brick_Clay_Old.uexp" 1400
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Metal_Steel_D.ubulk" 1401
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 1402
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Metal_Steel_D.uexp" 1403
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Metal_Steel_N.ubulk" 1404
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 1405
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Metal_Steel_N.uexp" 1406
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Materials/M_Metal_Steel.uasset" 1407
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Materials/M_Metal_Steel.uexp" 1408
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 1409
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uexp" 1410
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Props/SM_Lamp_Wall.ubulk" 1411
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 1412
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Props/SM_Lamp_Wall.uexp" 1413
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 1414
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Blueprints/Blueprint_WallSconce.uexp" 1415
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Tech_Panel_N.ubulk" 1416
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 1417
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Tech_Panel_N.uexp" 1418
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Tech_Panel_M.ubulk" 1419
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 1420
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Tech_Panel_M.uexp" 1421
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Materials/M_Tech_Panel.uasset" 1422
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Materials/M_Tech_Panel.uexp" 1423
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 1424
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uexp" 1425
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Props/SM_PillarFrame.ubulk" 1426
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Props/SM_PillarFrame.uasset" 1427
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Props/SM_PillarFrame.uexp" 1428
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_TableRound_N.ubulk" 1429
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_TableRound_N.uasset" 1430
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_TableRound_N.uexp" 1431
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_TableRound_M.ubulk" 1432
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_TableRound_M.uasset" 1433
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_TableRound_M.uexp" 1434
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Props/Materials/M_TableRound.uasset" 1435
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Props/Materials/M_TableRound.uexp" 1436
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Props/SM_TableRound.ubulk" 1437
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Props/SM_TableRound.uasset" 1438
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Props/SM_TableRound.uexp" 1439
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Fire_Tiled_D.ubulk" 1440
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 1441
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Fire_Tiled_D.uexp" 1442
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Fire_SubUV.ubulk" 1443
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 1444
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Fire_SubUV.uexp" 1445
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 1446
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uexp" 1447
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 1448
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uexp" 1449
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Particles/P_Fire.uasset" 1450
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Particles/P_Fire.uexp" 1451
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Audio/Fire01_Cue.uasset" 1452
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Audio/Fire01_Cue.uexp" 1453
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 1454
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uexp" 1455
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Wood_Oak_N.ubulk" 1456
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 1457
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Wood_Oak_N.uexp" 1458
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Wood_Oak_D.ubulk" 1459
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 1460
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Wood_Oak_D.uexp" 1461
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Materials/M_Wood_Oak.uasset" 1462
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Materials/M_Wood_Oak.uexp" 1463
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Architecture/Wall_Window_400x300.ubulk" 1464
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 1465
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Architecture/Wall_Window_400x300.uexp" 1466
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.ubulk" 1467
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 1468
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uexp" 1469
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.ubulk" 1470
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 1471
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uexp" 1472
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.ubulk" 1473
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 1474
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uexp" 1475
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 1476
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uexp" 1477
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Audio/Smoke01_Cue.uasset" 1478
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Audio/Smoke01_Cue.uexp" 1479
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Particles/P_Smoke.uasset" 1480
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Particles/P_Smoke.uexp" 1481
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 1482
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uexp" 1483
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_CobbleStone_Rough_N.ubulk" 1484
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 1485
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uexp" 1486
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_CobbleStone_Rough_D.ubulk" 1487
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 1488
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uexp" 1489
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 1490
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Materials/M_CobbleStone_Rough.uexp" 1491
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Statue_M.ubulk" 1492
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Statue_M.uasset" 1493
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Statue_M.uexp" 1494
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Statue_N.ubulk" 1495
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Statue_N.uasset" 1496
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Statue_N.uexp" 1497
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Props/Materials/M_Statue.uasset" 1498
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Props/Materials/M_Statue.uexp" 1499
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 1500
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Props/Materials/M_StatueGlass.uexp" 1501
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Props/SM_Statue.ubulk" 1502
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Props/SM_Statue.uasset" 1503
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Props/SM_Statue.uexp" 1504
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_ground_Moss_D.ubulk" 1505
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 1506
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_ground_Moss_D.uexp" 1507
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Ground_Moss_N.ubulk" 1508
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 1509
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Ground_Moss_N.uexp" 1510
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Materials/M_Ground_Moss.uasset" 1511
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Materials/M_Ground_Moss.uexp" 1512
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Props/SM_PillarFrame300.ubulk" 1513
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Props/SM_PillarFrame300.uasset" 1514
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Props/SM_PillarFrame300.uexp" 1515
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 1516
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Materials/M_Metal_Chrome.uexp" 1517
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Metal_Gold_D.ubulk" 1518
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 1519
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Metal_Gold_D.uexp" 1520
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Materials/M_Metal_Gold.uasset" 1521
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Materials/M_Metal_Gold.uexp" 1522
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Ground_Grass_D.ubulk" 1523
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 1524
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Ground_Grass_D.uexp" 1525
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Ground_Grass_N.ubulk" 1526
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 1527
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Ground_Grass_N.uexp" 1528
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Materials/M_Ground_Grass.uasset" 1529
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Materials/M_Ground_Grass.uexp" 1530
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 1531
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Audio/Starter_Background_Cue.uexp" 1532
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Maps/StarterMap_BuiltData.ubulk" 1533
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" 1534
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Maps/StarterMap_BuiltData.uexp" 1535
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Props/SM_CornerFrame.ubulk" 1536
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Props/SM_CornerFrame.uasset" 1537
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Props/SM_CornerFrame.uexp" 1538
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Shapes/Shape_Sphere.ubulk" 1539
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Shapes/Shape_Sphere.uasset" 1540
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Shapes/Shape_Sphere.uexp" 1541
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 1542
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Audio/Starter_Music_Cue.uexp" 1543
+"../../../Engine/Content/EngineSky/M_SimpleSkyDome.uasset" 1544
+"../../../Engine/Content/EngineSky/M_SimpleSkyDome.uexp" 1545
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Shapes/Shape_QuadPyramid.ubulk" 1546
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 1547
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Shapes/Shape_QuadPyramid.uexp" 1548
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Brick_Clay_New_D.ubulk" 1549
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 1550
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Brick_Clay_New_D.uexp" 1551
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 1552
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Brick_Clay_New_M.uexp" 1553
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 1554
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Brick_Clay_New_N.uexp" 1555
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 1556
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Materials/M_Brick_Clay_New.uexp" 1557
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Metal_Aluminum_D.ubulk" 1558
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 1559
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Metal_Aluminum_D.uexp" 1560
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 1561
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uexp" 1562
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Props/SM_Chair.ubulk" 1563
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Props/SM_Chair.uasset" 1564
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Props/SM_Chair.uexp" 1565
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Concrete_Panels_D.ubulk" 1566
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 1567
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Concrete_Panels_D.uexp" 1568
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Concrete_Panels_N.ubulk" 1569
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 1570
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Textures/T_Concrete_Panels_N.uexp" 1571
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 1572
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Materials/M_Concrete_Panels.uexp" 1573
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Maps/StarterMap.uexp" 1574
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Maps/StarterMap.umap" 1575
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Maps/Minimal_Default_BuiltData.ubulk" 1576
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" 1577
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Maps/Minimal_Default_BuiltData.uexp" 1578
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Maps/Minimal_Default.uexp" 1579
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Maps/Minimal_Default.umap" 1580
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.ubulk" 1581
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" 1582
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uexp" 1583
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Materials/M_AssetPlatform.uasset" 1584
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Materials/M_AssetPlatform.uexp" 1585
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Architecture/SM_AssetPlatform.ubulk" 1586
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 1587
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Architecture/SM_AssetPlatform.uexp" 1588
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 1589
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uexp" 1590
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 1591
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uexp" 1592
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 1593
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uexp" 1594
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 1595
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uexp" 1596
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 1597
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uexp" 1598
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 1599
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uexp" 1600
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 1601
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uexp" 1602
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Blueprints/Assets/SM_Arrows.ubulk" 1603
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 1604
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Blueprints/Assets/SM_Arrows.uexp" 1605
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 1606
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uexp" 1607
+"../../../Engine/Content/ArtTools/RenderToTexture/MaterialFunctions/CheckerPattern.uasset" 1608
+"../../../Engine/Content/ArtTools/RenderToTexture/MaterialFunctions/CheckerPattern.uexp" 1609
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsByCenter.uasset" 1610
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsByCenter.uexp" 1611
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ScreenResolution.uasset" 1612
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ScreenResolution.uexp" 1613
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedUVs.uasset" 1614
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedUVs.uexp" 1615
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 1616
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uexp" 1617
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Blueprints/Assets/Skybox.ubulk" 1618
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 1619
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Blueprints/Assets/Skybox.uexp" 1620
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 1621
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Blueprints/BP_LightStudio.uexp" 1622
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 1623
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uexp" 1624
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 1625
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uexp" 1626
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 1627
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uexp" 1628
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 1629
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uexp" 1630
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.ubulk" 1631
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 1632
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uexp" 1633
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 1634
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uexp" 1635
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.ubulk" 1636
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 1637
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uexp" 1638
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Maps/Advanced_Lighting.uexp" 1639
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/StarterContent/Maps/Advanced_Lighting.umap" 1640
+"../../../Engine/Content/Maps/Templates/HLODs/HLODLayer_Instanced.uasset" 1641
+"../../../Engine/Content/Maps/Templates/HLODs/HLODLayer_Instanced.uexp" 1642
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPerson/Maps/FirstPersonMap.uexp" 1643
+"C:/Users/ebove/Documents/Unreal Projects/Midterm_Ebove/Content/FirstPerson/Maps/FirstPersonMap.umap" 1644
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 1645
+"../../../Engine/Content/Maps/Entry_BuiltData.uexp" 1646
+"../../../Engine/Content/Maps/Entry.uexp" 1647
+"../../../Engine/Content/Maps/Entry.umap" 1648
